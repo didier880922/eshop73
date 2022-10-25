@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Tienda virtual grupo 73",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "express",
+    "React",
+    "NodeJS",
+    "Mern"
+  ],
+  "author": "Grupo73",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
